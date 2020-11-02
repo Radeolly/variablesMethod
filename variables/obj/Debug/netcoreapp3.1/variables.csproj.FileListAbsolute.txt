@@ -1,0 +1,9 @@
+D:\devEdu\variablesMethod\variables\bin\Debug\netcoreapp3.1\variables.deps.json
+D:\devEdu\variablesMethod\variables\bin\Debug\netcoreapp3.1\variables.dll
+D:\devEdu\variablesMethod\variables\bin\Debug\netcoreapp3.1\variables.pdb
+D:\devEdu\variablesMethod\variables\obj\Debug\netcoreapp3.1\variables.csprojAssemblyReference.cache
+D:\devEdu\variablesMethod\variables\obj\Debug\netcoreapp3.1\variables.AssemblyInfoInputs.cache
+D:\devEdu\variablesMethod\variables\obj\Debug\netcoreapp3.1\variables.AssemblyInfo.cs
+D:\devEdu\variablesMethod\variables\obj\Debug\netcoreapp3.1\variables.csproj.CoreCompileInputs.cache
+D:\devEdu\variablesMethod\variables\obj\Debug\netcoreapp3.1\variables.dll
+D:\devEdu\variablesMethod\variables\obj\Debug\netcoreapp3.1\variables.pdb
